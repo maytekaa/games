@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class personagem : MonoBehaviour
+public class Personagem : MonoBehaviour
 {
     Rigidbody2D fisica;
     private void Awake()
